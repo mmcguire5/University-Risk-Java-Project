@@ -1,0 +1,54 @@
+
+What's next:
+
+
+TransferWindow:
+give Ok button an ActionListener;
+
+
+
+
+
+Check if it is dean in step1(put students) and step 2(attack(once finish attacking));
+
+
+Election:
+After Election, check states. set new states.
+
+
+
+
+CHECK WIN OR NOT.
+
+WHAT HAPPENED AFTER WIN.
+
+locations:
+(gameboard.stransferStudents()
+Button: actionListener
+
+fix transfer to other school's department problem.
+set step = 1 but 1 in dpt and 2 in hand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu - play - replay

@@ -1,0 +1,82 @@
+[CSE116 Team j] Minutes from meeting on 10/21/13
+All three team members met with Scott Florentino for his 10am office hours.
+	-We discussed User Interfaces with Scott and attempted to figure out a repository issue with no 
+	solution found.
+	-We began creating the necessary classes that we believed to be vital to the project
+On the same day, we met up at 2pm in Lockwood Library
+	-We continued putting together classes and specifying methods that we saw necessary
+
+[CSE116 Team j] Minutes from meeting on 10/22/13
+All three members had lab at 11am, and discussed several strategies during lab
+	-We mainly made goals that we wished to complete in the coming weeks.
+	-We assigned ourselves very small individual tasks to complete before the next meet-up
+
+[CSE116 Team j] Minutes from Meeting on 10/25/13
+Similar to Monday, all three of us met up in Lockwood Library at 2pm in order to put together what we came up with during the week, and continue working.
+	-A couple of us worked on the visual aspect of the GUI and one of us began considering ways to 	form the required JUnit tests, which we are still confused about
+	-It appears as though we are working well with the strategy of delegating tasks, then putting
+	individual ideas together after a couple of days
+	-We are in contact several times per day via email, updating each other and exchanging useful
+	information.
+
+[CSE116 Team j] Minutes from Meeting on 10/28/2013
+We met up at 2pm in Lockwood Library
+	-We are currently putting together what we individually came up with over the weekend
+	-We continue to add to classes and occasionally add entirely new, but necessary classes
+
+[CSE116 Team j] Minutes from Meeting on 10/29/2013
+All three of us had lab this morning at 11am. After our write up we all got together to work on our project
+    -Two of the team members worked on the general GUI appearance and functionality while another worked on modifying
+    the several classes and methods that we have
+    	
+[CSE116 Team j] Minutes from Meeting on 11/05/2013
+All three of us had lab this morning at 11am. After our write up we all got together to work on our project
+    -We worked on delegating class's to each team member and we are beginning writing our JavaDocs for the
+    classes and methods  
+    
+ [CSE116 Team j] Minutes from Meeting on 11/12/2013
+All three of us had lab this morning at 11am. After our write up we all got together to work on our project.
+We have all been busy for the past week and were unable to meet much outside of class but put together plans
+to meet outside of class this week.
+    -We are continuing JavaDocs and testing, as well as putting together the GUI, and working on our test suite    	
+
+[CSE116 Team j] Minutes from Meeting on 11/15/2013
+The whole team met up after lecture at 2pm in the Lockwood Library.
+	-We decided to work on the GUI together, and couple the GUI with the logic code.
+	-Also, although we acknowledge that we are a little behind on this part, we are working on our
+	 GUI sketch 
+	 
+[CSE116 Team j] Minutes from Meeting on 11/19/2013
+The whole team met up in recitation to continue writing code for the GUI and JUNIT tests. We also had
+to deal with yet another code repository issue.
+In addition to this, we decided to create a GameState class to store the current state of the game at each turn.
+
+[CSE116 Team j] Minutes from Meeting on 11/26/2013
+Two of the team member met up for a couple of hours to reorganize the logic code to the game. We tried to fit our logic code 
+to match up more with the Skeletal Solutions given to us by Dr. Alphonce. We also worked out some bugs, delegated tasks for the
+fall break and cleared some questions up at the Professor's office hours
+
+[CSE116 Team j] Minutes from Meeting on 12/03/2013
+All three team members met up today in lab and continued working on the logic code to make it functonal with the GUI that we
+put together. JavaDocs were added to new or altered methods. JUnit tests were recreated for our new and improved logic code.
+We continued to work on the look of the GUI to make it better and more efficient.
+
+[CSE116 Team j] Minutes from Meeting on 12/4/2013
+Two team members met up to continue to add more necessary logic code in order to make the game board work more efficiently. We also
+worked on adding JavaDocs to any new code that we were writing.
+
+[CSE116 Team j] Minutes from Meeting on 12/5/2013
+The whole team got together for several hours and worked together on making the code better, fixing bugs, and enforcing rules that 
+were overlooked when the code was originally created. Along with this, the game manual was started and mostly completed. More is to come
+for the game manual when we completely finish all of the logic code. We are having difficulty getting everything to work flawlessly
+and are struggling with the impending deadline. Our biggest concern is the differences we see when we run it on Mac or a PC vs running
+it on Linux. Linux, for some reason, makes different issues that do not happen on other computers.
+
+[CSE116 Team j] Minutes from Meeting on 12/6/2013
+The whole team got together for a final meeting in Lockwood Library after 1pm lecture. We continue to work out bugs and add last minute
+implementations. We worked primarily on the election process of the game. We played the game several times with the goal of trying
+different things to break the code. From there we knew what needed to be fixed. We also polished up and finished the game manual. We had a couple issues that
+we could not figure out before submitting. These issues include a nullPointerException that we could not find out how to fix that 
+messes up the ability of the game to transfer students from one department to another in a different school. We also had difficulty
+getting the jar file to work in the terminal. All else is well. Finally, we submitted the project for grading and were all able to take a sigh
+of relief as we got one step closer to finishing the semester off strong.   

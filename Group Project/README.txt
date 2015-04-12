@@ -1,0 +1,10 @@
+--This project was a group project completed in Eclipse at the end of my second semester of Java in undergrad
+--Similar to the popular game Risk, by Hasbro, this game took on the title 'University Risk'
+--The goal of the game was to rule the University.
+--The University consisted of 6 schools - Engineering, Law, Sciences, Humanities, Arts, and Medicine
+--Each school consisted of four different departments
+--Players began as chairs of departments
+--Using the students they had, players could become chairs of different departments as the game continued
+--Eventually, a player would become the Dean of different schools if he/she chaired all of the departments
+--The player who became Dean of all of the schools would become President of the University and win the game
+--This project implemented what we had learned over the semester including GUIs, JUnit tests, handling mouse clicks and user input, implementing algorithms, utilizing several classes and methods, etc... 

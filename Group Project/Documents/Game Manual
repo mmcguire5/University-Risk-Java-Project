@@ -1,0 +1,65 @@
+Computer Science 116 Fall 2013
+Team j
+
+*****************************************************UNIVERSITY RISK*******************************************************************
+*******************************************************GAME MANUAL*********************************************************************
+
+PHASE 1 -- OPENING/STARTING THE GAME:
+	--> In order to begin the University Risk game, open your terminal and type the following command: 
+		           styx> java -jar CollegeConquest-j.jar NAME NAME NAME
+	    Where 'NAME' is the name of a player who would like to play. You play with anywhere from 2 to 20 number of players.
+	--> When the game opens (you will be able to see the game board) select the 'Menu' in the upper left corner. You will see a drop
+	    down menu which is where you should select 'Play.'
+	--> You should now see several pop-up windows - one for each player that you entered above. From here you should select, in order
+	    of player number, the color you wish to assign to each player. Once this is completed you will see another pop-up-indicating
+	    that the game has started
+	   
+PHASE 2 -- GAMEPLAY AND RULES:
+	--> As soon as the game begins, you will see several different colors behind the numbers on the game board. Do not be confused as this simply
+		denotes ownership or power over a department or school. If Player One's color is red, and he is chair of a department, that department will 
+		appear red. NOTE: Do not confuse the common school color with a player color. Each school has a unique color for its four departments. 
+		If a color is behind the department name, it represents the school color. If a color is behind a number, it represents the player who 
+		chairs that department.
+	--> If it is your turn, you will see a box on the right side of the screen displaying your player color, the number of players
+	    that you are YET TO ASSIGN to a department, the number of departments that you chair, and the number of schools that you
+	    are dean of. Also, you will see a field that indicates which "Step" you are on. The "Steps" are defined as follows:
+	   		
+	   		*Put Students: This is the time for you to assign your unassigned students to the department where you would like them.
+	   					   NOTE: The rules prohibit a player from placing his UNASSIGNED players in a department chaired by another player.
+	   					   		 Students cannot be taken back if placed in a department by accident. 
+	   		
+	   		*Transfer: This is the time for you to move your students around from one department to another if you wish to do so. NOTE: You
+	   			       You cannot transfer students just anywhere. Adjacency rules are in effect and the game will not give you the option
+	   			       to transfer a student to a non adjacent department. All departments within the same school are adjacent. All other
+	   			       adjacencies are denoted by connecting lines on the game board. For your reference, the external adjacencies are as
+	   			       follows:
+	   			                             Business <--> Civil
+	   			                             Computer <--> Linguistics
+	   			                             Religion <--> Mathematics
+	   			                             Physics <--> Music
+	   			                             Visual Arts <--> Mechanical
+	   			                             Chemistry <--> Anesthesia
+	   			                             Pathology <--> Criminal
+	   			                             
+	   			       A player may transfer as many students at a time as he wishes. The player cannot transfer all the students from the department,
+	   			       at least one student must remain in the department. When a player clicks on transfer, a menu appears and the player is given an option on 
+	   			       how many students he/she wants to move through a drop down menu. Another drop down menu displays the departments that are possible 
+	   			       for students to be moved. When the player has made his/her selection on amount of students and the department, click ok and the gameboard
+	   			       will update the students being moved. Click x on the top to exit and resume. (For the grader: we are sorry that we could not get the game
+	   			       to transfer students from one dept to another in a different school. It was working originally but we then got a nullpointerexception
+	   			       that we did not have the time or resources to work out. If you can do it, that's pretty amazing. Sorry, though. Our game is perfect otherwise ;))
+	   		
+	   		*Election: This is the time where a player, if he/she wishes, can initiate an election for control of a department. The player
+	   				   will be prompted as to what department they wish to run for election for. The students in the department will vote
+	   				   for which player they would like to become chair, and the winner automatically becomes the chair of that department
+	   				   and all students in that department then belong to, or are loyal to, the winner of that election.	
+	   				 				                                 		   
+	   		*Information Box: On the bottom right corner is an information box. The information displayed corresponds to the player who is making their turn. The
+	   						  box will display a list of departments and show how many students the player placed in each department. 
+	   				 				                                 		   
+	  --> The game will be over when one Player is President of the University. This requires that the Player be Dean of every school,
+	  	  which requires that the Player is chair of every department in the University.
+	  	  
+	  	  
+	  	  
+	  	   				 				                                 		   
